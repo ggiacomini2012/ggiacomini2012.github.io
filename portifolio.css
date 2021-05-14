@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  color: #0a2003;
+  /* background-color: rgb(110, 212, 84); */
+  background-image: url(https://s1.1zoom.me/big3/244/Scenery_Fields_Sky_Roads_508215.jpg);
+  background-size: cover;
+  padding: 50px;
+}
+
+.descricao {
+  margin: 20px 0px 20px 0px;
+  padding: 5px;
+  background-size: 10px;
+  color: #184e07;
+  background-color: chartreuse;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 12px 0px black;
+}
+
+h1 {
+  margin: 20px 20% 20px 20%;
+  background-size: 10px;
+  color: #28880b;
+  background-color: chartreuse;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 12px 0px black;
+  font-size: 20px;
+  padding: 3px;
+}
+
+h3 {
+  font-weight: 300;
+  text-decoration: wavy;
+  display: -webkit-inline-box;
+  margin: 8px 0px 8px 0px;
+  color: black;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: inset 1px 1px 12px 0px black;
+}
+
+#perfil {
+  border-radius: 100%;
+  box-shadow: 0px 0px 3px 7px rgb(110 212 84);
+}
+
+ul,
+ol {
+  /* background-color: cornflowerblue;
+  background-size: auto; */
+  /* padding: 80px;  */
+  display: block;
+  /* border-width: auto; */
+  margin-right: 30px;
+  /* margin-left: 30px; */
+}
+
+.container {
+  background-color: rgb(40, 136, 11);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 1px 18px 20px 8px #000000;
+  width: 455px;
+  margin: auto;
+}
+
+.li {
+  margin: auto;
+  width: 120px;
+}
+
+/* #linkPerfil {
+  margin-top: 300px;
+} */
+
+/* a {
+  color: #0c1f07;
+} */
+
+.descricao2 {
+  margin: 40px 0px 20px 0px;
+  padding: 5px;
+  background-size: 10px;
+  color: #184e07;
+  background-color: chartreuse;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 12px 0px black;
+}
+
+h5 {
+  margin-bottom: 3px;
+}
+
+#conteudoExterno {
+  font-style: unset;
+  text-decoration: wavy;
+  display: -webkit-inline-box;
+  margin: 0px 0px 8px 0px;
+  color: black;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: inset 1px 1px 12px 0px black;
+}
