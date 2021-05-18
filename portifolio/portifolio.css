@@ -1,20 +1,31 @@
+* {
+  margin: 0px;
+}
+
 body {
   text-align: center;
   color: #0a2003;
   /* background-color: rgb(110, 212, 84); */
-  background-image: url(https://s1.1zoom.me/big3/244/Scenery_Fields_Sky_Roads_508215.jpg);
+  /* background-image: url(https://s1.1zoom.me/big3/244/Scenery_Fields_Sky_Roads_508215.jpg); */
+  background-image: url(https://i.gifer.com/origin/ca/ca11fd13c7bcad3247a575ba4a533e20.gif);
   background-size: cover;
+  backdrop-filter: blur(20px);
   padding: 50px;
 }
 
 .descricao {
-  margin: 20px 0px 20px 0px;
-  padding: 5px;
+  margin: 20px 0px 20px 10px;
+  padding: 15px;
+  height: 180px;
   background-size: 10px;
   color: #184e07;
   background-color: chartreuse;
   border-radius: 8px;
   box-shadow: inset 1px 1px 12px 0px black;
+}
+
+#habilidades {
+  margin: 15px 0px 15px 0px;
 }
 
 h1 {
@@ -41,8 +52,13 @@ h3 {
 }
 
 #perfil {
+  margin: 10px 30px 30px 10px;
+  float: left;
   border-radius: 100%;
-  box-shadow: 0px 0px 3px 7px rgb(110 212 84);
+  border: outset 4px rgb(40 136 11);
+  box-shadow: 0px 0px 13px 1px rgb(0 0 0);
+  width: 150px;
+  /* margin-left: 3px; */
 }
 
 ul,
@@ -65,9 +81,19 @@ ol {
   margin: auto;
 }
 
+.imagem {
+  /* display: inline-block; */
+  position: absolute;
+  float: left;
+  width: 150px;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
 .li {
   margin: auto;
-  width: 120px;
+  margin-top: 2px;
+  width: 150px;
 }
 
 /* #linkPerfil {
@@ -81,6 +107,7 @@ ol {
 .descricao2 {
   margin: 40px 0px 20px 0px;
   padding: 5px;
+  height: 600px;
   background-size: 10px;
   color: #184e07;
   background-color: chartreuse;
@@ -90,6 +117,11 @@ ol {
 
 h5 {
   margin-bottom: 3px;
+}
+
+h4 {
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 #conteudoExterno {
@@ -109,4 +141,11 @@ h5 {
   margin-left: 400px;
   background-color: rgb(92, 184, 0);
   border-radius: 100%;
+}
+
+.subtitulos {
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  text-decoration: wavy;
 }
