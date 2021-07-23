@@ -1,3 +1,8 @@
+#This project has a goal of practicing what I have learned until now about web development, it's environment and research tools.
+## git, github, API's, React, Javascript, Css, HTML, VsCode, Bash, Css Libraries, StackOverFlow, W3school, MDN, etc... 
+
+'A great jorney starts with a small step'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
