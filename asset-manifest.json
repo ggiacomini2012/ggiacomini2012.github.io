@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ggiacomini2012.github.io/mom-card/static/css/main.186228d8.chunk.css",
-    "main.js": "/ggiacomini2012.github.io/mom-card/static/js/main.358538a8.chunk.js",
-    "main.js.map": "/ggiacomini2012.github.io/mom-card/static/js/main.358538a8.chunk.js.map",
-    "runtime-main.js": "/ggiacomini2012.github.io/mom-card/static/js/runtime-main.32c608b2.js",
-    "runtime-main.js.map": "/ggiacomini2012.github.io/mom-card/static/js/runtime-main.32c608b2.js.map",
-    "static/js/2.47cead13.chunk.js": "/ggiacomini2012.github.io/mom-card/static/js/2.47cead13.chunk.js",
-    "static/js/2.47cead13.chunk.js.map": "/ggiacomini2012.github.io/mom-card/static/js/2.47cead13.chunk.js.map",
-    "static/js/3.7068513f.chunk.js": "/ggiacomini2012.github.io/mom-card/static/js/3.7068513f.chunk.js",
-    "static/js/3.7068513f.chunk.js.map": "/ggiacomini2012.github.io/mom-card/static/js/3.7068513f.chunk.js.map",
-    "index.html": "/ggiacomini2012.github.io/mom-card/index.html",
-    "static/css/main.186228d8.chunk.css.map": "/ggiacomini2012.github.io/mom-card/static/css/main.186228d8.chunk.css.map",
-    "static/js/2.47cead13.chunk.js.LICENSE.txt": "/ggiacomini2012.github.io/mom-card/static/js/2.47cead13.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ggiacomini2012.github.io/mom-card/static/media/amanda-jones-P787-xixGio-unsplash.a8d9a20e.jpeg"
+    "main.css": "/Mine/mom-card/static/css/main.48cab15e.chunk.css",
+    "main.js": "/Mine/mom-card/static/js/main.358538a8.chunk.js",
+    "main.js.map": "/Mine/mom-card/static/js/main.358538a8.chunk.js.map",
+    "runtime-main.js": "/Mine/mom-card/static/js/runtime-main.956e6a15.js",
+    "runtime-main.js.map": "/Mine/mom-card/static/js/runtime-main.956e6a15.js.map",
+    "static/js/2.47cead13.chunk.js": "/Mine/mom-card/static/js/2.47cead13.chunk.js",
+    "static/js/2.47cead13.chunk.js.map": "/Mine/mom-card/static/js/2.47cead13.chunk.js.map",
+    "static/js/3.7068513f.chunk.js": "/Mine/mom-card/static/js/3.7068513f.chunk.js",
+    "static/js/3.7068513f.chunk.js.map": "/Mine/mom-card/static/js/3.7068513f.chunk.js.map",
+    "index.html": "/Mine/mom-card/index.html",
+    "static/css/main.48cab15e.chunk.css.map": "/Mine/mom-card/static/css/main.48cab15e.chunk.css.map",
+    "static/js/2.47cead13.chunk.js.LICENSE.txt": "/Mine/mom-card/static/js/2.47cead13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Mine/mom-card/static/media/amanda-jones-P787-xixGio-unsplash.a8d9a20e.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32c608b2.js",
+    "static/js/runtime-main.956e6a15.js",
     "static/js/2.47cead13.chunk.js",
-    "static/css/main.186228d8.chunk.css",
+    "static/css/main.48cab15e.chunk.css",
     "static/js/main.358538a8.chunk.js"
   ]
 }
