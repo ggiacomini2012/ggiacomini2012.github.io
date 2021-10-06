@@ -1,0 +1,118 @@
+
+body {
+  background-image: url('./images/aditya-chinchure-hyN9aU9Tm-c-unsplash.jpeg');
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  filter: grayscale(1);
+}
+
+#root {
+  border-radius: 30px;
+  max-width: 900px;
+}
+
+.container {
+  overflow: auto;
+  position: relative;
+  background-image: url('./images/amanda-jones-P787-xixGio-unsplash.jpeg');
+  /* background-color: #c7c7db; */
+  box-shadow: inset 1px 1px 18px 12px black;
+  display: flex;
+  border: solid black 10px;
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  display: flex;
+  box-shadow:  inset 1px 1px 18px 12px black;
+  text-shadow: 1px 1px 8px black;
+  text-align: center;
+  width: 400px;
+  color: white;
+  border-radius: 20px;
+  margin: 25px 0 10px 0;
+  justify-content: center;
+}
+
+label{
+  font-weight: bold;
+}
+
+.button-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: stretch;
+  height: 25px;
+}
+
+.input-center label{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  border: solid #6d0301 20px;
+  border-radius: 10px;
+}
+
+.input-center label input{
+  height: 25px;
+}
+
+button {
+  background-color: #6d0301;
+  color: white;
+  font-weight: bold;
+  width: 190px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+div {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  padding: 5px;
+}
+
+caption {
+  background-color: #6d0301;
+  box-shadow: inset 1px 1px 20px 2px black;
+  border: solid black 5px;
+  padding: 5px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 10px;
+  color: white;
+  text-shadow: 1px 1px 8px black;
+}
+
+.tbody tr th, td{
+  text-shadow: 1px 1px 8px black;
+  background-color: #6d0301;
+  box-shadow: inset 1px 1px 20px 2px black;
+  border: solid black 3px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.void {
+  box-shadow: inset 1px 1px 18px 12px rgba(0, 0, 0, 0);
+  background-color: #6d030100;
+  border: none;
+}
