@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mom-card/static/css/main.e2483707.chunk.css",
+    "main.js": "/mom-card/static/js/main.358538a8.chunk.js",
+    "main.js.map": "/mom-card/static/js/main.358538a8.chunk.js.map",
+    "runtime-main.js": "/mom-card/static/js/runtime-main.e3a43b8f.js",
+    "runtime-main.js.map": "/mom-card/static/js/runtime-main.e3a43b8f.js.map",
+    "static/js/2.47cead13.chunk.js": "/mom-card/static/js/2.47cead13.chunk.js",
+    "static/js/2.47cead13.chunk.js.map": "/mom-card/static/js/2.47cead13.chunk.js.map",
+    "static/js/3.7068513f.chunk.js": "/mom-card/static/js/3.7068513f.chunk.js",
+    "static/js/3.7068513f.chunk.js.map": "/mom-card/static/js/3.7068513f.chunk.js.map",
+    "index.html": "/mom-card/index.html",
+    "static/css/main.e2483707.chunk.css.map": "/mom-card/static/css/main.e2483707.chunk.css.map",
+    "static/js/2.47cead13.chunk.js.LICENSE.txt": "/mom-card/static/js/2.47cead13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mom-card/static/media/amanda-jones-P787-xixGio-unsplash.a8d9a20e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3a43b8f.js",
+    "static/js/2.47cead13.chunk.js",
+    "static/css/main.e2483707.chunk.css",
+    "static/js/main.358538a8.chunk.js"
+  ]
+}
